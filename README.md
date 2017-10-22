@@ -8,6 +8,7 @@ source env/bin/activate
 sudo apt install portaudio19-dev 
 pip install pyaudio
 pip install -r requirements.txt
+export GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/credentials-key.json
 </pre>
 ## starting
 <pre>
