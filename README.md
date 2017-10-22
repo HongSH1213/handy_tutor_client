@@ -1,6 +1,8 @@
 # handy tutor client  
 ## 마이크 셋팅
 http://jeongc팅hul.tistory.com/542
+## API KEY 발급
+http://www.makewith.co/page/project/1088/story/2749/
 ## 셋업
 apt 최신버전으로
 <pre>
