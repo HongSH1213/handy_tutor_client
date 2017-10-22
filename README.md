@@ -1,5 +1,6 @@
 # handy tutor client  
-
+## mic setting
+http://jeongchul.tistory.com/542
 ## Set up
 <pre>
 pip install virtualenv
