@@ -2,23 +2,24 @@
 ## 마이크 셋팅
 http://jeongc팅hul.tistory.com/542
 ## 셋업
+apt 최신버전으로
 <pre>
 sudo apt-get update
 sudo apt-get upgrade
 </pre>
-apt 최신버전으로
+파이썬 가상환경 설치
 <pre>
 pip install virtualenv
 </pre>
-파이썬 가상환경 설치
+현재 디렉토리에 가상환경 생성
 <pre>
 virtualenv env
 </pre>
-현재 디렉토리에 가상환경 생성
+가상환경 실행
 <pre>
 source env/bin/activate
 </pre>
-가상환경 실행
+예제코드에 필요한 모듈 셋업
 <pre>
 sudo apt install portaudio19-dev 
 </pre>
