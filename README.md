@@ -31,7 +31,7 @@ pip install -r requirements.txt
 <pre>
 export GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/credentials-key.json
 </pre>
-## starting
+## 실시간 스트리밍 예제 실행
 <pre>
 python transcribe_streaming_mic.py
 </pre>
