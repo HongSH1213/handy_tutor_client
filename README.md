@@ -44,4 +44,8 @@ export GOOGLE_APPLICATION_CREDENTIALS=/path/to/your/credentials-key.json
 python transcribe_streaming_mic.py
 </pre>
 ## OMXPLAYER 제어
+예제
+<pre>
+python omx.py
+</pre>
 http://python-omxplayer-wrapper.readthedocs.io/en/latest/
